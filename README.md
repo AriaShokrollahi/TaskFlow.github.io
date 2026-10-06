@@ -39,7 +39,7 @@ TaskFlow یک داشبورد مدرن برای مدیریت پروژه‌ها و
 - جستجو و دسترسی سریع
 
 <img 
-  src="./img/screencapture-192-168-1-7-5500-taskflow-html-2026-10-06-11_52_02.png" 
+  src="./src/img/screencapture-192-168-1-7-5500-taskflow-html-2026-10-06-11_52_02.png" 
   alt="پیش‌نمایش کامل وب‌سایت انرژی خورشیدی"
   width="100%"
 />
